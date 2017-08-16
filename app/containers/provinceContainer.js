@@ -117,7 +117,7 @@ export default class ProvinceContainer extends Component {
             <Picker.Item label="陕西" value="61" /> 
             <Picker.Item label="山东" value="37" /> 
             <Picker.Item label="山西" value="14" /> 
-            <Picker.Item label="天津" value="12" />     
+            <Picker.Item label="天津" value="12" />
             <Picker.Item label="西藏" value="54" /> 
             <Picker.Item label="新疆" value="65" /> 
             <Picker.Item label="云南" value="53" /> 
