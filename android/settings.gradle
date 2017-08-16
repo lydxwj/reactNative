@@ -1,0 +1,3 @@
+rootProject.name = 'ytowin'
+
+include ':app'
